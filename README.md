@@ -11,7 +11,6 @@ The purpose of this application is to use an API for a social network that uses 
 * Mongoose
 * Node.js
 
-
 ## URL GitHub repository
 https://github.com/nlop3z/budget-tracker
 
